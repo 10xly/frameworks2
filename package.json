@@ -1,0 +1,33 @@
+{
+  "name": "frameworks2",
+  "version": "1.0.1",
+  "description": "The Framework Framework",
+  "keywords": [
+    "framework"
+  ],
+  "homepage": "https://github.com/10xly/frameworks2#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/frameworks2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/frameworks2.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@rightpad/convert2string": "^1.0.0",
+    "basic-functions": "^1.0.6",
+    "construct-new-second": "^1.0.0",
+    "eq-strings": "^2.0.2",
+    "es-error-intrinsics": "^1.0.1",
+    "es-logical-not-operator": "^1.0.0",
+    "lodash.stubobject": "^4.13.0",
+    "true-value": "^3.0.0"
+  }
+}
